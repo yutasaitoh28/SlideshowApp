@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE20A1F325BBEEB600C3DB68 /* SubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE20A1F225BBEEB600C3DB68 /* SubViewController.swift */; };
 		DE660935259DDD10007FD589 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE660934259DDD10007FD589 /* AppDelegate.swift */; };
 		DE660937259DDD10007FD589 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE660936259DDD10007FD589 /* SceneDelegate.swift */; };
 		DE660939259DDD10007FD589 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE660938259DDD10007FD589 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE20A1F225BBEEB600C3DB68 /* SubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubViewController.swift; sourceTree = "<group>"; };
 		DE660931259DDD10007FD589 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE660934259DDD10007FD589 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE660936259DDD10007FD589 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				DE660934259DDD10007FD589 /* AppDelegate.swift */,
 				DE660936259DDD10007FD589 /* SceneDelegate.swift */,
+				DE20A1F225BBEEB600C3DB68 /* SubViewController.swift */,
 				DE660938259DDD10007FD589 /* ViewController.swift */,
 				DE66093A259DDD10007FD589 /* Main.storyboard */,
 				DE66093D259DDD16007FD589 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				DE660939259DDD10007FD589 /* ViewController.swift in Sources */,
 				DE660935259DDD10007FD589 /* AppDelegate.swift in Sources */,
 				DE660937259DDD10007FD589 /* SceneDelegate.swift in Sources */,
+				DE20A1F325BBEEB600C3DB68 /* SubViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
